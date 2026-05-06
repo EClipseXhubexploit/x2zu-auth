@@ -1,0 +1,6 @@
+{
+  "enabled": true,
+  "minRank": "Premium",
+  "kickMessage": "This script is Premium only",
+  "version": "1.0.0"
+}
