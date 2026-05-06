@@ -1,0 +1,7 @@
+{
+  "whitelist": [
+    { "id": 123456789, "name": "User", "rank": "Owner" },
+    { "id": 987654321, "name": "User1", "rank": "Premium" },
+    { "id": 112233445, "name": "User2", "rank": "Free" }
+  ]
+}
